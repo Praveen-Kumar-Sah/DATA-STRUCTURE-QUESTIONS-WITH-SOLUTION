@@ -1,0 +1,92 @@
+// All Programs in this Directory
+
+<Array>
+01. Print an Array
+02. Insert an Element at the Begning
+03. Insert an Element at the END in the Array
+04. Insert an Element at the specific position in the Array
+05. Delete the element at the Begning in the array
+06. Delete the element at the END in the array
+07. Delete the element at the Specific Position in the array
+
+<Sorting Algorithm>
+08. Selection sort in array
+09. Booble sort in array
+10. Quick sort in array
+11. Merge sort in array
+12. Insertion sort in array
+13. Heap sort in array
+
+<Searching Algorithm>
+14. Linear Search in array
+15. Binary Search in array
+
+<Built in function declaration>
+16. Program using malloc built in function
+17. Program using malloc and realloc built in function
+18. Program using Free built in function
+19. Passing Structure members as Argument
+20. Program to Call by Reference
+21. Passing Structure as an Argument
+22. Passing Structure as an Argument with arrow operator
+23. Passing pointer to function as an Argument
+24. Return a structure from a function
+25. Return a pointer to structure from the function
+26. Passing array of structure as Argument
+27. Self Referencial structure
+
+<Singly Linked List>
+
+28. Creating a Singly Linked List and Display it
+29. Insert a Node at the begning in the Singly Linked list
+30. Insert a Node at the end in the Singly Linked list
+31. Insert a Node at the certain position in the Singly Linked list
+32. Deletion a Node at the begning in the Singly Linked list
+33. Deletion a Node at the end in the Singly Linked list
+34. Deletion a Node at the certain position in the Singly Linked list
+35. Delete the whole Singly Linked list
+36. Program to reverse the whole singly linked list
+
+<Doubly Linked List>
+37. Creating a node and display it using doubly linked list
+38. program to add an element at the begning int the list
+39. program to add the elements at the end in the list
+40. program to insert a node at the given position in doubly linked list
+41. program to delete the element from the begning in the list
+42. program to delete the element from the end in the list
+43. program to delete the element from the position in the list
+44. program to reverse the whole list 
+
+<Circular Singly Linked List>
+45. program to create a node for circular singly linked list
+46. program to insert a node at the begning in circular signly linked list
+47. program to insert a node at the end in circular signly linked list
+48. program to insert a node at the position in circular signly linked list
+49. program to create a complete circular singly linked list
+50. program to delete the node from begning in circular singly linked list
+51. program to delete the node from end in circula singly linked list
+52. program to delete the node from the position in circula singly linked list
+53. program to count the number of elements in circular signly linked list
+54. program to search an element in singly circular linked list
+55. program to insert a node at the begning in doubly circular linked list
+56. program to insert a node at the end in doubly circular linked list
+57. program to insert a node at the position in doubly circular linked list
+58. program to delete a node at the begning in doubly circular linked list
+59. program to delete a node at the end in doubly circular linked list
+60. program to delete a node at the position in doubly circular linked list
+
+<Stack>
+61. Stack implementation using Array
+62. Stack implementation using Linked List
+
+<Queue>
+63. Queue implementation using Array
+64. Queue implementation using Linked List
+
+<Binary Tree>
+65. Program to create a tree and display it in INORDER
+66. Program to create a tree and display it in PREORDER
+67. Program to create a tree and display it in POSTORDER
+68. Program to create a tree and find the find the height
+69. Program to find the number of leaf node in a tree
+70. Program to implement a binary search tree
